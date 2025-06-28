@@ -61,40 +61,26 @@ VITE_SUPABASE_ANON_KEY=your-anon-public-key
 npm run dev
 ```
 
-Then open [http://localhost:5173](http://localhost:5173) in your browser.
+
 
 ---
 
-## 📁 Folder Structure (Simplified)
 
-```
-HIREIQ/
-├── index.html
-├── package.json
-├── .env.example
-├── src/
-│   ├── App.tsx
-│   ├── components/
-│   └── lib/
-├── supabase/
-│   └── migrations/
-└── vite.config.ts
-```
 
 ---
 
 ## 📜 License
 
-**This project is not open-source. All rights reserved © 2025 Kiran G.**
+**This project is not open-source. All rights reserved © 2025 K GUNASEKHAR.**
 
 You may view and learn from this code for **educational or personal purposes only.**  
 **You are not permitted** to use, modify, redistribute, or republish any part of this project without **written permission** from the author.
 
-For inquiries or permission requests, contact: [your-email@example.com]
+
 
 ---
 
 ## 🙋‍♂️ Author
 
-**Kiran G**  
+K GUNASEKHAR 
 [GitHub](https://github.com/kgsgunpro)
