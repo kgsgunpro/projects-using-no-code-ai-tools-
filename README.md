@@ -1,6 +1,8 @@
 these are the projects created by completely ai agentic bots like bolt , loveble etc
 
-📜 License
+##📜 License
+
+
 These project are not open-source. All rights reserved © 2025 K GUNASEKHAR .
 
 You may view and learn from this code for educational or personal purposes only.
